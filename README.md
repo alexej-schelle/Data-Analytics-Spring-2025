@@ -5,7 +5,7 @@ This module introduces the concepts and methods of data analytics. The objective
 
 # Installation on Linux or Mac Kernel
 **************************************************************************************************************************************
-    git clone https://github.com/alexej-schelle/Data-Aanyltics-Spring-2025.git and start the software with the corresponding Python files
+    git clone https://github.com/alexej-schelle/Data-Analytics-Spring-2025.git and start the software with the corresponding Python files
 **************************************************************************************************************************************
 
 # Installation on Windows Kernel
