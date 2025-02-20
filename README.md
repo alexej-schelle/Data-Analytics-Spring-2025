@@ -36,13 +36,13 @@ This module introduces the concepts and methods of data analytics. The objective
 # Documented Scenarios
 **************************************************************************************************************************************
 
-    Please visit https://www.iu.org/ or ask at alexej.schelle.ext@iu.org.
+    Please visit https://constructor.university/ or ask at alexej.schelle.ext@iu.org ot at aschelle@constructor.university
 
 **************************************************************************************************************************************
 
 # Author
 **************************************************************************************************************************************
 
-   - FH-Doz. Dr. A. Schelle.
+   - Univ.-Doz. Dr. A. Schelle.
   
 **************************************************************************************************************************************
